@@ -6,6 +6,9 @@
 
 You'll need armips added to your Path. [HERE](https://www.dropbox.com/s/ceuv2qeqp38lpah/armips.exe?dl=0) is a pre-compiled version.
 
+If you use Linux you need to git clone [armips](https://github.com/Kingcom/armips.git), then install cmake, cmake your armips dir
+then use make in the armips dir. After that add the armips executable to your bashrc.
+
     make - Compiles for use with CakeHax/CakeBrah entry
     make a9lh - Compiles for use with arm9loaderhax
 
